@@ -1,0 +1,13 @@
+11)R: O programa lançará um erro de referência,
+pois está sendo chamado a funcão multiplica e ela não foi definida. 
+
+function multiplicacao (num1,num2) {
+ let resultado = num1 * num2;
+ return resultado;
+}
+multiplica(4, 7);
+multiplica(5, 6);
+multiplica(3, 3);
+
+
+

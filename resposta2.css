@@ -1,0 +1,16 @@
+/*
+2)R:
+Para o efeito criaria um documento css com as regras abaixo
+e esse documento deverá ser importado 
+de forma global na aplicação, ou em cada uma das páginas do projeto */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: Arial, Helvetica, sans-serif;
+  text-transform: uppercase;
+  font-weight: bold;
+}
